@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** Jessica Trawyck, Ben Seeley
+**Author(s):** Jessica Trawick, Ben Seeley
 
 ## Specification
 
@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Ben Seeley, Jessica Trawyck
+Ben Seeley, Jessica Trawick
