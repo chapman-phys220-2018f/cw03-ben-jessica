@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** Jessica Trawyck, Ben Seeley
+**Author(s):** Jessica Trawick, Ben Seeley
 
 ## Specification
 
@@ -29,9 +29,7 @@ Note : the homework this week will be to finish all of the classwork, and includ
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+We found the ability to look up and share work with our classmates useful as we finished the assignments pretty quickly and could help the class with our assignments. 
 
 ## Honor Pledge
 
@@ -42,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Ben Seeley, Jessica Trawyck
+Ben Seeley, Jessica Trawick
