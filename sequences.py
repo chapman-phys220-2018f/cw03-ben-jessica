@@ -13,7 +13,7 @@
 """
 
 def fibonacci(n):
-        """Returns n fibonacci numbers
+    """Returns n fibonacci numbers
     Args:
         n: number of fibonacci numbers to return
         
@@ -23,8 +23,10 @@ def fibonacci(n):
     Raises:
         ValueError when n is not a positive integer
     """
+    
     if n < 1:
         raise ValueError("n must be a positive integer")
+    
     output = []
     f1 = 0
     f2 = 1
